@@ -1,0 +1,13 @@
+./node_modules/*
+./*.js
+./*.md
+./*.json
+./*.txt
+./*.bat
+./*.d.ts
+./run/only-rebuild.bat
+./run/start-as-test.bat
+./app/*.js
+./app/*.json
+./app/*.txt
+./app/*.d.ts
