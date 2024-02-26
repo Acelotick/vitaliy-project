@@ -27,6 +27,7 @@ The software cannot be used for the following purposes:
 
 To obtain the original version of this software,
 please contact vitalijkarpov.jog@gmail.com.
+(The version of the application instance available at github.com/acelotick/vitaliy-project is the original one, and there is no need to contact via email)
 
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
@@ -60,7 +61,8 @@ all copies or substantial portions of the Software.
 4. Использование в проектах, которые пропагандируют дискриминацию, ненависть или нарушают права человека.
 
 Для получения оригинальной версии этого программного обеспечения
-требуется обратиться на почту vitalijkarpov.jog@gmail.com.
+требуется обратиться на почту vitalijkarpov.jog@gmail.com
+(Данная версия экземпляра приложения по ссылке github.com/acelotick/vitaliy-project является оригинальной, и не требуется обращаться по почте)
 
 Указанное выше уведомление об авторских правах и настоящее разрешение должны
 включаться во все копии или существенные части программного обеспечения.
