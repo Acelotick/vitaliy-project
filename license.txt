@@ -5,6 +5,8 @@ Author: Vitaliy Karpov
 Contact: vitalijkarpov.jog@gmail.com
 Date: February 25, 2024 y.
 
+In this instance of the application, there is a disclaimer present in the file disclaimer.md. Please review it after familiarizing yourself with the license, and then proceed to use the project.
+
 ---
 
 MIT License (MIT)
@@ -38,6 +40,8 @@ all copies or substantial portions of the Software.
 Автор: Виталий Карпов
 Контакт: vitalijkarpov.jog@gmail.com
 Дата: 25 февраля 2024 г.
+
+В этом экземпляре приложения присутствует дисклеймер, в файле disclaimer.md, ознакомьтесь с ним после ознакомнелия с лицензией, а после начните использовать проект.
 
 ---
 
