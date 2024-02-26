@@ -1,0 +1,66 @@
+# EN-US
+MIT License
+
+Author: Vitaliy Karpov
+Contact: vitalijkarpov.jog@gmail.com
+Date: February 25, 2024 y.
+
+---
+
+MIT License (MIT)
+
+Copyright (c) 2024 Vitaliy Karpov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The software cannot be used for the following purposes:
+
+1. Use for malicious activities or illegal activities.
+2. Modification or introduction of malicious code into the software.
+3. Sale of the software without providing a copy of the license to the user.
+4. Use in projects that promote discrimination, hatred, or violate human rights.
+
+To obtain the original version of this software,
+please contact vitalijkarpov.jog@gmail.com.
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+# RU-RU
+Лицензия MIT
+
+Автор: Виталий Карпов
+Контакт: vitalijkarpov.jog@gmail.com
+Дата: 25 февраля 2024 г.
+
+---
+
+Лицензия MIT (MIT)
+
+Авторские права (c) 2024 Виталий Карпов
+
+Настоящим предоставляется бесплатная лицензия любому лицу, получающему копию
+этого программного обеспечения и сопутствующей документации (далее - "Программное
+обеспечение"), на использование программного обеспечения без ограничений,
+включая, но не ограничиваясь правом на использование, копирование, модификацию,
+объединение, публикацию, распространение, сублицензирование и/или продажу
+копий программного обеспечения, а также на лица, которым предоставляется данное
+программное обеспечение, при соблюдении следующих условий:
+
+Запрещается использование программного обеспечения для следующих целей:
+
+1. Использование с целью вредоносных действий или незаконной деятельности.
+2. Изменение или внедрение вредоносного кода в программное обеспечение.
+3. Продажа программного обеспечения без предоставления пользователю копии лицензии.
+4. Использование в проектах, которые пропагандируют дискриминацию, ненависть или нарушают права человека.
+
+Для получения оригинальной версии этого программного обеспечения
+требуется обратиться на почту vitalijkarpov.jog@gmail.com.
+
+Указанное выше уведомление об авторских правах и настоящее разрешение должны
+включаться во все копии или существенные части программного обеспечения.
