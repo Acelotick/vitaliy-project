@@ -18,7 +18,7 @@
     "application"
   ],
   "author": "Vitaliy Karpov",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "cfonts": "^3.2.0",
     "readline": "^1.3.0"
