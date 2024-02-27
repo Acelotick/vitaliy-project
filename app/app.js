@@ -1,8 +1,3 @@
-/*
- * MIT License
- * Copyright (c) [2024] [Vitaliy Karpov]
- */
-
 //------ import
 const { createInterface } = require('readline');
 
