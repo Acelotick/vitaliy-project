@@ -1,8 +1,3 @@
-/*
- * MIT License
- * Copyright (c) [2024] [Vitaliy Karpov]
- */
-
 //This file is created solely for the purpose of letting the package.json file know that a certain script is indeed present.
 
 //At the moment, this file doesn't contain any tests.
