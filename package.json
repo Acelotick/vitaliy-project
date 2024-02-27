@@ -15,7 +15,9 @@
     "project",
     "utility",
     "console",
-    "application"
+    "application",
+    "template",
+    "example"
   ],
   "author": "Vitaliy Karpov",
   "license": "UNLICENSED",
