@@ -7,6 +7,27 @@
 # **Отказ от ответственности**
 - Автор не несет ответственности за любой ущерб, потерю данных или другие убытки, возникшие в результате использования этого кода. Код предоставляется "как есть" без каких-либо гарантий.
 
+# MESSAGE EN-US
+# Application
+
+- Please refer to the readme.md file which contains the disclaimer message.
+
+- **Requirements**
+
+  - It is recommended to install the following libraries if they are not already present: node, npm, pkg.
+
+  - In this project, the app.exe file is not provided, so you will need to compile it yourself. To do this, run the run/only-rebuild.bat file and have Node.js version 16+, as well as pkg version 5+ and npm.
+
+  - If you are already using the application and do not want to make any changes to it (meaning the app.exe file already exists), you only need the Node.js 16+ libraries to run it.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Email: [vitalijkarpov.jog@gmail.com]
+
+- Created on: February 25, 2024
+- 
 # MESSAGE RU-RU
 # Приложение
 
