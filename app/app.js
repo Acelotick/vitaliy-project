@@ -14,7 +14,7 @@ rl.on('close', () => imitClose());
 const addCommand = (cmd, lowercase, func) => commands[cmd] = { func, lower: lowercase };
 const addCloseCommand = (func) => closecmd.push(func);
 const handler = (args, raw, defraw) => (!commands[args[0]] && texts.command_log && console.log(texts.command.replace('%cmd', args[0]))) || (commands[args[0]]?.func(args, raw, defraw));
-const imitCommand = (stroke) => stroke.trim() !== '' && handler(stroke.split(' '), stroke.trim(), stroke);
+const imitCommand = (stroke) => stroke.trim() !== '' && handler(stroke.trim().split(' '), stroke.trim(), stroke);
 const imitClose = () => closecmd.forEach((a) => a());
 const getRl = () => rl;
 const setRl = (Rl) => rl = Rl;
