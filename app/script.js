@@ -1,7 +1,5 @@
 const app = require('./app')
 
-//------ your code here
-
 //------ test code
 app.addCommand('test', true, (args, raw, defraw) => {
     console.log('test')
