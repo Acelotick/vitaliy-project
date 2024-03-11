@@ -1,5 +1,2 @@
-- Автор: **Виталий Карпов**
-- Связаться: **vitalijkarpov.jog@gmail.com**
-
-- Author: **Vitaliy Karpov**
-- Contact: **vitalijkarpov.jog@gmail.com**
+- Автор / Author: **Виталий Карпов**
+- Связаться / Contact: **vitalijkarpov.jog@gmail.com**
